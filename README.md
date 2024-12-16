@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyaloves7&label=Profile%20views&color=0e75b6&style=flat" alt="priyaloves7" /> </p>
 
-- 🔭 I’m currently working on **Hall Booking Web App for SDNBVC**
+- 🔭 I’m currently working on **Canteen Web App for SDNBVC**
 
 - 🌱 I’m currently learning **Blockchain, Cryptography**
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **Full-Stack**
 
 - 📫 How to reach me **priyadharshini040305@gmail.com**
 
